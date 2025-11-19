@@ -1,0 +1,22 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+out/
+
+# Maven build output
+target/
+
+# Java class files
+*.class
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore credentials and OAuth tokens
+credentials.json
+tokens/
+
+# Logs or temporary files
+*.log
